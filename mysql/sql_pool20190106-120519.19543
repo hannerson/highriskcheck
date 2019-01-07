@@ -1,0 +1,4 @@
+Log file created at: 2019/01/06 12:05:19
+Running on machine: localhost
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0106 12:05:19.157598 19543 objectPool2.h:59] object ok

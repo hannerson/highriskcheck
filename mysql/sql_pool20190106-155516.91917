@@ -1,0 +1,9 @@
+Log file created at: 2019/01/06 15:55:16
+Running on machine: localhost
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0106 15:55:16.179847 91917 objectPool2.h:59] object ok
+I0106 15:55:16.204933 91917 mysqlconn.h:60] mysqlrow destructor
+I0106 15:55:16.204942 91917 mysqlconn.h:60] mysqlrow destructor
+I0106 15:55:16.204946 91917 mysqlconn.h:60] mysqlrow destructor
+I0106 15:55:16.204949 91917 objectPool2.h:46] insert list
+I0106 15:55:16.204952 91917 objectPool2.h:47] 0x69f630

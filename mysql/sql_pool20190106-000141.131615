@@ -1,0 +1,18 @@
+Log file created at: 2019/01/06 00:01:41
+Running on machine: localhost
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0106 00:01:41.534570 131615 mysqlconn.cpp:109] connect error:Host '192.168.73.111' is not allowed to connect to this MySQL server
+E0106 00:01:41.535542 131615 mysqlconn.cpp:109] connect error:Host '192.168.73.111' is not allowed to connect to this MySQL server
+E0106 00:01:41.536113 131615 mysqlconn.cpp:109] connect error:Host '192.168.73.111' is not allowed to connect to this MySQL server
+E0106 00:01:41.536662 131615 mysqlconn.cpp:109] connect error:Host '192.168.73.111' is not allowed to connect to this MySQL server
+I0106 00:01:41.536691 131615 objectPool2.h:59] object ok
+E0106 00:01:41.536708 131615 mysqlconn.cpp:126] query errorMySQL server has gone away
+I0106 00:01:41.536720 131615 mysqlconn.h:107] mysqlconnector destructor
+I0106 00:01:41.536758 131615 objectPool2.h:42] delete t
+I0106 00:01:41.536762 131615 mysqlconn.h:107] mysqlconnector destructor
+I0106 00:01:41.536765 131615 objectPool2.h:42] delete t
+I0106 00:01:41.536767 131615 mysqlconn.h:107] mysqlconnector destructor
+I0106 00:01:41.536770 131615 objectPool2.h:42] delete t
+I0106 00:01:41.536772 131615 mysqlPool.h:21] mysqlPool desctruct
+I0106 00:01:41.536775 131615 mysqlconn.h:107] mysqlconnector destructor
+I0106 00:01:41.536778 131615 objectPool2.h:42] delete t

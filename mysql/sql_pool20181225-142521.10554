@@ -1,0 +1,26 @@
+Log file created at: 2018/12/25 14:25:21
+Running on machine: localhost
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1225 14:25:21.140056 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140291 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140303 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140307 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140311 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140316 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140319 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140323 10554 mysqlconn.h:55] mysqlrow destructor
+I1225 14:25:21.140329 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140333 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140337 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140341 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140344 10554 mysqlconn.h:55] mysqlrow destructor
+I1225 14:25:21.140349 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140352 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140357 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140360 10554 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:25:21.140364 10554 mysqlconn.h:55] mysqlrow destructor
+I1225 14:25:21.140377 10554 mysqlconn.h:107] mysqlconnector destructor
+I1225 14:25:21.140411 10554 mysqlconn.h:107] mysqlconnector destructor
+I1225 14:25:21.140434 10554 mysqlconn.h:107] mysqlconnector destructor
+I1225 14:25:21.140457 10554 mysqlconn.h:79] mysqlresult destructor
+I1225 14:25:21.140465 10554 mysqlconn.h:107] mysqlconnector destructor

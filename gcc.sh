@@ -1,0 +1,1 @@
+/usr/local/gcc-4.8/bin/g++ -o test -g -std=c++11 -lpthread -lglog -lcrypto -levent -ljsoncpp -lglog -lmysqlclient -I /usr/include/mysql/ -L /usr/lib64/mysql/ -L /usr/local/lib64/ -I/usr/local/include -L/usr/local/lib test.cpp config.cpp server.cpp mysql/mysqlPool.h mysql/mysqlconn.cpp mysql/objectPool2.h utils.cpp /usr/local/lib64/libjsoncpp.a

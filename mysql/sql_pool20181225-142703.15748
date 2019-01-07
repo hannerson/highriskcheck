@@ -1,0 +1,17 @@
+Log file created at: 2018/12/25 14:27:03
+Running on machine: localhost
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1225 14:27:03.760473 15748 objectPool2.h:59] object ok
+I1225 14:27:03.772538 15748 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:27:03.772557 15748 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:27:03.772567 15748 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:27:03.772583 15748 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:27:03.772588 15748 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:27:03.772593 15748 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:27:03.772596 15748 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:27:03.772601 15748 mysqlconn.h:55] mysqlrow destructor
+I1225 14:27:03.772608 15748 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:27:03.772613 15748 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:27:03.772616 15748 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:27:03.772620 15748 mysqlconn.cpp:20] mysqlfield destructor
+I1225 14:27:03.772624 15748 mysqlconn.h:55] mysqlrow destructor
