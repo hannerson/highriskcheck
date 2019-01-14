@@ -19,7 +19,7 @@
 #include "config.h"
 #include "aho_corasick/aho_corasick.hpp"
 #include <glog/logging.h>
-#include "mysql/mysqlPool.h"
+#include "mysql_pool/mysqlPool.h"
 #include "utils.h"
 #include <json/json.h>
 

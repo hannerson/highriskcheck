@@ -38,7 +38,7 @@ def client(url):
 		hl.update(str("%s_%s" % (private_key,t)).encode(encoding='utf-8'))
 		digest = hl.hexdigest()
 		
-		music = "长安fdafd"
+		music = "长安"
 		artist = "蒋明"
 		album = "fdfd"
 		post_dict = {}

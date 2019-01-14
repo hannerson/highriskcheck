@@ -2,7 +2,6 @@
 #include <string>
 #include <unordered_map>
 #include <fstream>
-//#include "logger.h"
 #include "config.h"
 #include <glog/logging.h>
 

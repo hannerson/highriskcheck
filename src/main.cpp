@@ -7,7 +7,7 @@ int main(){
 	google::InitGoogleLogging("http_server");
 	google::SetLogDestination(google::INFO, "/home/dmsMusic/http_server");
 	google::FlushLogFiles(google::INFO);
-	class configParser* configptr = new configParser(std::string ("test.conf"));
+	class configParser* configptr = new configParser(std::string ("server.conf"));
 	configptr->loadConfig();
 	class httpServer * server = new class httpServer("0.0.0.0",12345);
 	server->init(configptr->config);
