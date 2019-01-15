@@ -2,7 +2,7 @@
 # 20190113
 ##########
 
-exclude_dirs=include bin jsoncpp glog
+exclude_dirs=include bin jsoncpp glog test src
 dirs := $(shell find . -maxdepth 1 -type d)
 dirs := $(basename $(patsubst ./%,%,$(dirs)))
 dirs := $(filter-out $(exclude_dirs),$(dirs))
@@ -12,7 +12,7 @@ ARFLAGS = -crs
 
 cur_dir=$(shell pwd)
 all_files=$(wildcard *)
-subdirs:=$(dirs)
+subdirs:=$(dirs) src
 
 all:
 	@for n in $(subdirs);do $(MAKE) -C $$n; done
@@ -20,4 +20,4 @@ all:
 
 .PHONY clean:
 clean:
-	-rm $(obj)
+	@for n in $(subdirs);do $(MAKE) clean -C $$n; done
